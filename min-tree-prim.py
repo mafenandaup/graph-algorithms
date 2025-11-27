@@ -1,0 +1,1 @@
+print("Questão 3 - Gerando a arvore mínima com o algoritmo de Prim")

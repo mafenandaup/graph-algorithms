@@ -1,4 +1,8 @@
-## criação do grafo estabelecido na atividade 1
+
+print("Questão 1A - Arvore mínima usando Prim e Kruskal")
 
 
-##
+print("Questão 1B - Arvore mínima usando Prim e Kruskal")
+
+
+print("Questão 1C - Solução correta para a questão 1B")

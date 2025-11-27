@@ -16,3 +16,22 @@ um repositório com a minha resolução de problemas para o projeto prático de 
 ![Questão 1](assets-readme/justprim.png)
 
 ## Execução das soluções 
+
+```bash
+cd graph-algorithms
+```
+
+- Questão 1
+```bash
+python3 scotland-graphs.py
+```
+
+- Questão 2
+```bash
+python3 min-tree-kruskal.py
+```
+
+- Questão 1
+```bash
+python3 min-tree-prim.py
+```
